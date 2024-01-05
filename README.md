@@ -8,6 +8,8 @@ sudo apt install apache2
 
 ## Installing Apache2
 
-```bash
 # Install Apache2
+
+```bash
 sudo apt install apache2
+`
